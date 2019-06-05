@@ -1,0 +1,30 @@
+{
+  "name": "evolux.asyncstruct",
+  "version": "1.0.0",
+  "description": "async build and process structures",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "gendoc": "./node_modules/.bin/esdoc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoregon/evolux.asyncstruct.git"
+  },
+  "keywords": [],
+  "author": "Bernhard Lukassen <bl@bernhard-lukassen.com> (http://www.bernhard-lukassen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thoregon/evolux.asyncstruct/issues"
+  },
+  "homepage": "https://github.com/Thoregon/evolux.asyncstruct#readme",
+  "devDependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-node": "^1.0.4",
+    "esdoc-standard-plugin": "^1.0.0"
+  }
+}
