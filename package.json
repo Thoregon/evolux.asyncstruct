@@ -22,6 +22,5 @@
     "url": "https://github.com/Thoregon/evolux.asyncstruct/issues"
   },
   "homepage": "https://github.com/Thoregon/evolux.asyncstruct#readme",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
